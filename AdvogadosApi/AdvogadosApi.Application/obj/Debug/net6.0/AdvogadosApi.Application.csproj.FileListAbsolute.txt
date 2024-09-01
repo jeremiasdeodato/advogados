@@ -1,0 +1,17 @@
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Application\obj\Debug\net6.0\AdvogadosApi.Application.csproj.AssemblyReference.cache
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Application\obj\Debug\net6.0\AdvogadosApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Application\obj\Debug\net6.0\AdvogadosApi.Application.AssemblyInfoInputs.cache
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Application\obj\Debug\net6.0\AdvogadosApi.Application.AssemblyInfo.cs
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Application\obj\Debug\net6.0\AdvogadosApi.Application.csproj.CoreCompileInputs.cache
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Application\bin\Debug\net6.0\AdvogadosApi.Application.deps.json
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Application\bin\Debug\net6.0\AdvogadosApi.Application.dll
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Application\bin\Debug\net6.0\AdvogadosApi.Application.pdb
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Application\bin\Debug\net6.0\AdvogadosApi.Domain.dll
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Application\bin\Debug\net6.0\AdvogadosApi.Infrastructure.dll
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Application\bin\Debug\net6.0\AdvogadosApi.Domain.pdb
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Application\bin\Debug\net6.0\AdvogadosApi.Infrastructure.pdb
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Application\obj\Debug\net6.0\Advogado.FDB7C8A8.Up2Date
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Application\obj\Debug\net6.0\AdvogadosApi.Application.dll
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Application\obj\Debug\net6.0\refint\AdvogadosApi.Application.dll
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Application\obj\Debug\net6.0\AdvogadosApi.Application.pdb
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Application\obj\Debug\net6.0\ref\AdvogadosApi.Application.dll

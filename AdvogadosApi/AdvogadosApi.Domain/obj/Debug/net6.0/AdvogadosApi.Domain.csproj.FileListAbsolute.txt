@@ -1,0 +1,12 @@
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Domain\bin\Debug\net6.0\AdvogadosApi.Domain.deps.json
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Domain\bin\Debug\net6.0\AdvogadosApi.Domain.dll
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Domain\bin\Debug\net6.0\AdvogadosApi.Domain.pdb
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Domain\obj\Debug\net6.0\AdvogadosApi.Domain.csproj.AssemblyReference.cache
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Domain\obj\Debug\net6.0\AdvogadosApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Domain\obj\Debug\net6.0\AdvogadosApi.Domain.AssemblyInfoInputs.cache
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Domain\obj\Debug\net6.0\AdvogadosApi.Domain.AssemblyInfo.cs
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Domain\obj\Debug\net6.0\AdvogadosApi.Domain.csproj.CoreCompileInputs.cache
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Domain\obj\Debug\net6.0\AdvogadosApi.Domain.dll
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Domain\obj\Debug\net6.0\refint\AdvogadosApi.Domain.dll
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Domain\obj\Debug\net6.0\AdvogadosApi.Domain.pdb
+C:\dev\advogados\AdvogadosApi\AdvogadosApi.Domain\obj\Debug\net6.0\ref\AdvogadosApi.Domain.dll
