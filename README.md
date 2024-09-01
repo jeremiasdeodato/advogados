@@ -1,4 +1,4 @@
-# cadastro-advogados
+# advogados
 
 Cadastro de Advogados
 
